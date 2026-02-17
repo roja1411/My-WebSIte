@@ -92,6 +92,27 @@ body {
     cursor: pointer;
     z-index: 3000;   /* ADD THIS */
 }
+/* ===== MENU HEADER ===== */
+
+.menu-header {
+    padding: 30px 30px 20px;
+    text-align: left;
+}
+
+.menu-header h2 {
+    font-size: 20px;
+    color: #ffffff;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+
+.menu-underline {
+    width: 60px;
+    height: 3px;
+    background: #00c9a7;
+    margin-top: 8px;
+    border-radius: 5px;
+}
 
 
 /* ================= HERO SECTION ================= */
@@ -581,3 +602,4 @@ footer {
     border-color: #00c9a7;
     box-shadow: 0 20px 40px rgba(0, 255, 200, 0.35);
 }
+
