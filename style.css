@@ -92,6 +92,7 @@ body {
     cursor: pointer;
     z-index: 3000;   /* ADD THIS */
 }
+
 /* ===== MENU HEADER ===== */
 
 .menu-header {
@@ -602,4 +603,3 @@ footer {
     border-color: #00c9a7;
     box-shadow: 0 20px 40px rgba(0, 255, 200, 0.35);
 }
-
